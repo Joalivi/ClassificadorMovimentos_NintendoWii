@@ -7,10 +7,9 @@ Primeiros passos para configuração do ambiente:
     1.2 - https://docs.anaconda.com/anaconda/install/
 2 - Atualize o Anaconda (Anaconda Prompt):
     1.1 - conda upgrade conda
-    1.2 - upgrade --all    
-3 - Crie o ambiente a partir do arquivo "environment.yaml", com todas as dependências (incluindo o Jupyter Notebook):
+    1.2 - conda upgrade --all    
+3 - Crie o ambiente a partir do arquivo "environment.yaml", com todas as dependências (incluindo o Jupyter Notebook), entre na pasta do projeto e rode os comandos:
     3.1 - conda env create -f environment.yaml
     3.2 - conda activate classificadorWii 
-4 -  Entre na pasta do projeto e rode o comando para iniciar o Jupyter Notebook:
-    4.1 - jupyter notebook
-    4.2 - Acesse o Jupyter notebook no Browser: http://localhost:8888      
+    3.3 - jupyter notebook
+    3.4 - Acesse o Jupyter notebook no Browser: http://localhost:8888      
