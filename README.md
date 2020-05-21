@@ -12,4 +12,6 @@ Primeiros passos para configuração do ambiente:
     3.1 - conda env create -f environment.yaml
     3.2 - conda activate classificadorWii 
     3.3 - jupyter notebook
-    3.4 - Acesse o Jupyter notebook no Browser: http://localhost:8888      
+    3.4 - Acesse o Jupyter notebook no Browser: http://localhost:8888 
+
+Link Instalação Build Tools C++ Visual Studio: https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16         

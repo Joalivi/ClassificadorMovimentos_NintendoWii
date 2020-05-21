@@ -95,5 +95,9 @@ dependencies:
   - zeromq=4.3.1=h33f27b4_3
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h62dcd97_4
+  - pip:
+    - cython==0.29.18
+    - dtw==1.4.0
+    - scipy==1.4.1
 prefix: C:\Users\joali\anaconda3\envs\classificadorWii
 
