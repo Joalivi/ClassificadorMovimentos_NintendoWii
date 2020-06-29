@@ -1,9 +1,11 @@
 <html>
     <head>
-        <title>Classificador de Movimentos do Nintendo Wii utilizando KNN</title>
+        <h1> Classificador de Movimentos do Nintendo Wii utilizando KNN </h1>
     </head>
+    <br/>
+    <br/>
 <body>
-    Projeto desenvolvido na disciplina de Inteligencia Artificial, o escopo do projeto pode ser encontrado no pdf em anexo no repo. O projeto foi desenvolvido em Python, utilizando Jupyter Notebook.
+    <h2>Projeto desenvolvido na disciplina de Inteligencia Artificial, o escopo do projeto pode ser encontrado no pdf em anexo no repo. O projeto foi desenvolvido em Python, utilizando Jupyter Notebook.</h2>
     <br/>
     <br/>
     Primeiros passos para configuração do ambiente:
